@@ -5,3 +5,4 @@ Reading material for same
 - https://stackoverflow.com/a/39109790
 - https://stackoverflow.com/a/43268098
 - https://tpiros.dev/blog/what-is-an-opaque-response/
+- https://medium.com/@stephen.biston/resolve-cors-errors-once-and-for-all-three-methods-d821c258d025
